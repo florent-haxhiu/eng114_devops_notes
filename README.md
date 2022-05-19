@@ -2,7 +2,7 @@
 
 ## Links
 
-[Basic Terminal Commands](###BasicTerminalCommands)
+[Basic Terminal Commands](#BasicTerminalCommands)
 
 ## Notes
 
