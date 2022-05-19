@@ -24,6 +24,7 @@
   - echo (prints it to terminal)
   - --version (shows version, universal)
   - touch (creates any types of files)
+  - touch {itemOne,itemTwo}.extensionType (Creates multiple files with the same file type)
 
 - ### Create git repo and change master to main
 
@@ -38,4 +39,7 @@
   - git commit -m (Commits the files that have been added with a message)
   - git push (Pushes it into the git repo on github)
   - git log (Shows git logs so who changed what and etc.)
-  - git branch <insertNameHere> (Creates a branch with that name)
+  - git checkout -d <insertNameHere> (Creates a branch with that name)
+  - git checkout <branchName> (Goes to the branch name, it has to first exist)
+  - git diff (shows the changes to the file)
+  - git clone <repoSSH/repoHTTPS> (Clones the existing repo)
