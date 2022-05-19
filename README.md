@@ -1,16 +1,8 @@
 # Eng144-DevOps
 
-Started the Sparta Global training.
-Doing their Devops Engineering Course.
+## Links
 
-## What I was doing before this
-
-Before this, I did a software engineering course with General Assembly.
-
-## Dates
-
-- Date Started: 16/05/22
-- Date Ended: Still ongoing.
+[Basic Terminal Commands](#BasicTerminalCommands)
 
 ## Notes
 
