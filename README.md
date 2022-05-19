@@ -1,4 +1,4 @@
-# Sparta Global
+# Eng144-DevOps
 
 Started the Sparta Global training.
 Doing their Devops Engineering Course.
@@ -40,4 +40,5 @@ Before this, I did a software engineering course with General Assembly.
   - git push (Pushes it into the git repo on github)
   - git log (Shows git logs so who changed what and etc.)
   - git branch <insertNameHere> (Creates a branch with that name)
-  - 
+
+
