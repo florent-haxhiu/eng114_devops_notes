@@ -26,6 +26,7 @@ Before this, I did a software engineering course with General Assembly.
   - rm (removes items)
   - echo (prints it to terminal)
   - --version (shows version, universal)
+  - touch (creates any types of files)
 
 - Create git repo and change master to main
   - Create git repo by going into an empty dir
@@ -39,3 +40,4 @@ Before this, I did a software engineering course with General Assembly.
   - git push (Pushes it into the git repo on github)
   - git log (Shows git logs so who changed what and etc.)
   - git branch <insertNameHere> (Creates a branch with that name)
+  - 
