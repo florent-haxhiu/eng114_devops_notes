@@ -2,11 +2,11 @@
 
 ## Links
 
-[Basic Terminal Commands](###BasicTerminalCommands)
+[Basic Terminal Commands](#basic-terminal-commands)
 
 ## Notes
 
-### Basic Terminal Commands
+- Basic Terminal Commands
   - pwd (print working directory)
   - ls (list directory items)
   - cat (copies file items and prints it in terminal)
