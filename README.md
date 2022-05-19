@@ -2,11 +2,16 @@
 
 ## Links
 
-[Basic Terminal Commands](#basic-terminal-commands)
+### [Basic Terminal Commands](#basic-terminal-commands)
+
+### [Create Git Repo](#create-git-repo-and-change-master-to-main)
+
+### [Git Commands](#git-commands)
 
 ## Notes
 
-- Basic Terminal Commands
+- ### Basic Terminal Commands
+
   - pwd (print working directory)
   - ls (list directory items)
   - cat (copies file items and prints it in terminal)
@@ -20,17 +25,17 @@
   - --version (shows version, universal)
   - touch (creates any types of files)
 
-- Create git repo and change master to main
+- ### Create git repo and change master to main
+
   - Create git repo by going into an empty dir
   - git init (initializes a git repo)
   - git branch -m master main (changes master to main)
 
-- Git Commands
+- ### Git Commands
+
   - git status (Shows what's been commited, added or pushed)
   - git add . (Adds all the files into a queue to be pushed)
   - git commit -m (Commits the files that have been added with a message)
   - git push (Pushes it into the git repo on github)
   - git log (Shows git logs so who changed what and etc.)
   - git branch <insertNameHere> (Creates a branch with that name)
-
-
