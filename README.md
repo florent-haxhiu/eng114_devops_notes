@@ -49,10 +49,10 @@
 - ### Object Oriented Programming (OOP) {#object}
   - Four pillars for OOP
   - APIE
-    - ==Abstraction==
-    - ==Polymorphism==
-    - ==Inheritance==
-    - ==Encapsulation==
+    - **Abstraction**
+    - **Polymorphism**
+    - **Inheritance**
+    - **Encapsulation**
   - Based on the concepts of objects
     - Can contain **data** in the form of **attributes** or **properties**
     - Can contain **actions** in the form of **functions** or **methods**
