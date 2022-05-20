@@ -8,6 +8,8 @@
 
 ### [Git Commands](#git-commands)
 
+### [Object Oriented Programming](#object)
+
 ## Notes
 
 - ### Basic Terminal Commands
@@ -43,3 +45,22 @@
   - git checkout <branchName> (Goes to the branch name, it has to first exist)
   - git diff (shows the changes to the file)
   - git clone <repoSSH/repoHTTPS> (Clones the existing repo)
+
+- ### Object Oriented Programming (OOP) {#object}
+  - Four pillars for OOP
+  - APIE
+    - ==Abstraction==
+    - ==Polymorphism==
+    - ==Inheritance==
+    - ==Encapsulation==
+  - Based on the concepts of objects
+    - Can contain **data** in the form of **attributes** or **properties**
+    - Can contain **actions** in the form of **functions** or **methods**
+  - **Abstraction**
+    - Abstraction is getting rid of unnecessary information for the user. We should only care about calling the method and the not underlying implementation.
+  - **Polymorphism**
+    -
+  - **Inheritance**
+    -
+  - **Encapsulation**
+    - Fundamental concept in OOP. It is the idea of bundling data and methods that work on that data within one unit. This is usually used to hide internal representaion, or state of an object from the outside. This is called ==information hiding.==
