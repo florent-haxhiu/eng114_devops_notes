@@ -2,15 +2,15 @@
 
 ## Links
 
-### [Basic Terminal Commands](#basic-terminal-commands)
+[Basic Terminal Commands](#basic-terminal-commands)
 
-### [Create Git Repo](#create-git-repo-and-change-master-to-main)
+[Create Git Repo](#create-git-repo-and-change-master-to-main)
 
-### [Git Commands](#git-commands)
+[Git Commands](#git-commands)
 
-### [Python](#python)
+[Python](#python)
 
-### [Object Oriented Programming](#object-oriented-programming-(oop))
+[Object Oriented Programming](#object-oriented-programming-oop)
 
 ## Notes
 
