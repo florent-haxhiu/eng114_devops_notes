@@ -1,5 +1,17 @@
 # Python
 
+## Links
+
+- **[Variables](#types-of-variables)**
+- **[Methods](#methods)**
+- **[Control Flow](#control-flow)**
+- **[Loops](#loops)**
+- **[Functions](#functions)**
+- **[Classes](#classes)**
+- **[Lambda](#lambda)**
+- **[Unit-Test](#unittest)**
+- **[File Handling](#files)**
+
 ## Types of Variables
 
 - String

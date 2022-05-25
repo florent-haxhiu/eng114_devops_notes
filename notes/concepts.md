@@ -2,8 +2,8 @@
 
 ## Links
 
-[Object-Oriented Programming (OOP)](#object-oriented-programming-oop)
-[Test Driven Development (TDD)](#test-driven-development)
+- **[Object-Oriented Programming (OOP)](#object-oriented-programming-oop)**
+- **[Test Driven Development (TDD)](#test-driven-development)**
 
 
 ## Object-Oriented Programming (OOP)

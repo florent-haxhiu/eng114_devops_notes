@@ -1,5 +1,11 @@
 # Terminal & Git Commands
 
+## Links
+
+- **[Terminal Commands](#terminal-commands)**
+- **[Creating git repo in cli](#create-git-repo-and-change-master-to-main)**
+- **[Git Commands](#git-commands)**
+
 ## Terminal Commands
 
 - pwd -> print working directory
