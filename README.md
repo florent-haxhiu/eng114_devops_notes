@@ -2,15 +2,11 @@
 
 ## Links
 
-### [Basic Terminal Commands](#basic-terminal-commands)
+**[Basic Terminal Commands](./notes/terminal.md)**
 
-### [Create Git Repo](#create-git-repo-and-change-master-to-main)
+**[Python](./notes/python.md)**
 
-### [Git Commands](#git-commands)
-
-### [Python](#python)
-
-### [Object Oriented Programming](#object-oriented-programming-(oop))
+**[Concepts](./notes/concepts.md)**
 
 ## Notes
 
@@ -67,7 +63,7 @@
   - .lower() -> Lowers any capital letters within the string
   - .upper() -> Capitalizes any lowercase letters within the string
 
-- ### Object-Oriented Programming (OOP)
+## Object-Oriented Programming (OOP)
 
   - Four pillars for OOP
   - APIE
